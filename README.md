@@ -1,7 +1,7 @@
 Hello, world!
 - 👋 I’m @bencoronard
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning Spring Boot + React
+- 🌱 I’m currently learning Spring Boot + NextJS
 - 💞️ I’m looking to collaborate on many things
 - 📫 Reach me on Instagram: bencoronard7
 - 😄 Pronouns: he/him/his
