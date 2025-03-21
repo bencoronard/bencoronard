@@ -1,9 +1,9 @@
 Hello, world!
 - 👋 I’m @bencoronard
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning Spring Boot + NextJS
+- 🌱 I’m currently learning Spring Boot, Go, and NextJS
 - 💞️ I’m looking to collaborate on many things
-- 📫 Reach me on Instagram: bencoronard7
+- 📫 Reach me on Instagram: bencoronard
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: woof woof!
 
